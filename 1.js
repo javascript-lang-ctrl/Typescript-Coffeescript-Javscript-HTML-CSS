@@ -1,5 +1,2 @@
-//js
-var colorSelector = document.getElementById("selector");
-colorSelector.addEventListener("input" , function(){
- document.body.style.backgroundColor = currentColor;
-});
+var name = window.prompt("whats your name");
+alert("hello" + name;)
